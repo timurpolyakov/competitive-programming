@@ -1,0 +1,16 @@
+# Compiled Executables & Debug Files
+*.out
+*.exe
+a.out
+*.o
+*.dSYM/
+
+# Local Test Case Files
+input.txt
+output.txt
+
+# Extension & IDE Noise
+.cph/
+.idea/
+*.iml
+.DS_Store

@@ -14,3 +14,4 @@ output.txt
 .idea/
 *.iml
 .DS_Store
+.vscode/
